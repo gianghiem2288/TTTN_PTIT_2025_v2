@@ -1,5 +1,3 @@
-Dưới đây là file README.md chi tiết cho các chủ đề thực tập, được thiết kế theo lộ trình 4 tháng và đáp ứng đầy đủ yêu cầu của bạn:
-
 # HƯỚNG DẪN THỰC TẬP THIẾT KẾ PHẦN CỨNG (07/2025 - 11/2025)
 
 ## Mục lục
