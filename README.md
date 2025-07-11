@@ -42,13 +42,13 @@ gantt
 - **Giao thức**: AMBA (AXI/AHB), Wishbone, I2C, SPI, UART
 
 ### Công cụ cần cài đặt:
-| Tool | Mục đích | Link |
-|------|----------|------|
-| Vivado | FPGA Implementation | [Xilinx](https://www.xilinx.com) |
-| ModelSim | Simulation | [Mentor](https://eda.sw.siemens.com) |
-| Icarus Verilog | Open-source Simulation | [iverilog.icarus.com](http://iverilog.icarus.com) |
-| GTKWave | Waveform Viewer | [gtkwave.sourceforge.net](http://gtkwave.sourceforge.net) |
-| OpenROAD | ASIC Flow | [The-OpenROAD-Project](https://theopenroadproject.org) |
+| Tool | Mục đích |
+|------|----------|
+| Vivado | FPGA Implementation |
+| ModelSim | Simulation |
+| Icarus Verilog | Open-source Simulation |
+| GTKWave | Waveform Viewer |
+| OpenLane | ASIC Flow |
 
 ---
 
