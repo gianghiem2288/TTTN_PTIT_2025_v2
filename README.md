@@ -1,6 +1,5 @@
 Dưới đây là file README.md chi tiết cho các chủ đề thực tập, được thiết kế theo lộ trình 4 tháng và đáp ứng đầy đủ yêu cầu của bạn:
 
-```markdown
 # HƯỚNG DẪN THỰC TẬP THIẾT KẾ PHẦN CỨNG (07/2025 - 11/2025)
 
 ## Mục lục
@@ -253,4 +252,3 @@ flowchart TD
 ```
 
 > **Lưu ý**: Các nhóm cần submit báo cáo tiến độ hàng tuần vào thứ Sáu 17:00. Gặp mentor ít nhất 2 lần/tuần để giải quyết vấn đề kỹ thuật.
-```
