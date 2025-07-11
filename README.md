@@ -16,7 +16,7 @@ Dưới đây là file README.md chi tiết cho các chủ đề thực tập, �
 
 ---
 
-## 🗓 Tổng quan lộ trình
+## Tổng quan lộ trình
 ```mermaid
 gantt
     title Lộ trình 4 tháng thực tập
@@ -52,7 +52,7 @@ gantt
 
 ---
 
-## 🧩 Hướng dẫn chi tiết theo chủ đề
+## Hướng dẫn chi tiết theo chủ đề
 
 ### 1. Thiết kế CPU RISC-V Pipeline
 #### Kiến thức chuyên sâu:
@@ -231,7 +231,7 @@ stateDiagram-v2
 
 ---
 
-## 🔧 Tài nguyên chung
+## Tài nguyên chung
 ### Sách tham khảo:
 1. "Digital Design and Computer Architecture" - Harris & Harris
 2. "FPGA Prototyping by Verilog Examples" - Pong P. Chu
@@ -242,7 +242,7 @@ stateDiagram-v2
 - [OpenCores](https://opencores.org)
 - [FPGA4Student Projects](https://www.fpga4student.com)
 
-### Quy trình báo cáo:
+### Quy trình:
 ```mermaid
 flowchart TD
     A[Tuần 1: Proposal] --> B[Tuần 4: Design Doc]
