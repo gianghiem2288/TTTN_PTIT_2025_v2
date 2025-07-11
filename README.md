@@ -3,16 +3,16 @@ Dưới đây là file README.md chi tiết cho các chủ đề thực tập, �
 # HƯỚNG DẪN THỰC TẬP THIẾT KẾ PHẦN CỨNG (07/2025 - 11/2025)
 
 ## Mục lục
-1. [Tổng quan lộ trình](#-tổng-quan-lộ-trình)
-2. [Chuẩn bị kiến thức nền tảng](#-chuẩn-bị-kiến-thức-nền-tảng)
-3. [Hướng dẫn chi tiết theo chủ đề](#-hướng-dẫn-chi-tiết-theo-chủ-đề)
+1. [Tổng quan lộ trình](#tổng-quan-lộ-trình)
+2. [Chuẩn bị kiến thức nền tảng](#chuẩn-bị-kiến-thức-nền-tảng)
+3. [Hướng dẫn chi tiết theo chủ đề](#hướng-dẫn-chi-tiết-theo-chủ-đề)
    - [1. Thiết kế CPU RISC-V Pipeline](#1-thiết-kế-cpu-risc-v-pipeline)
    - [2. Bộ điều khiển I2C Bus](#2-bộ-điều-khiển-i2c-bus)
    - [3. Bộ xử lý RISC 32-bit](#3-bộ-xử-lý-risc-32-bit)
    - [4. DMA Controller cho AMBA Bus](#4-dma-controller-cho-amba-bus)
    - [5. SDRAM Controller](#5-sdram-controller)
    - [6. Giao thức UART/SPI/I2C](#6-giao-thức-uartspii2c)
-4. [Tài nguyên chung](#-tài-nguyên-chung)
+4. [Tài nguyên chung](#tài-nguyên-chung)
 
 ---
 
@@ -34,7 +34,7 @@ gantt
 
 ---
 
-## 📚 Chuẩn bị kiến thức nền tảng
+## Chuẩn bị kiến thức nền tảng
 ### Kiến thức bắt buộc:
 - **Digital Design**: Boolean algebra, FSM, Timing analysis
 - **HDL**: Verilog/VHDL (ưu tiên SystemVerilog)
